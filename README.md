@@ -1,4 +1,6 @@
-# ExpressJS MySQL Boilerplate
+# XBase
+
+ExpressJS MySQL Boilerplate with REST api generators
 
 ## Dev Env Dependencies
 
